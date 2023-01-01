@@ -1,4 +1,4 @@
-use
+
 
 @font-face{
 	font-family: Sphyx_font-Regular;
@@ -162,8 +162,6 @@ td, th {
 #videoBG{
 	position: fixed;
 	z-index: -1;
-align-self: center;
-
 }
 @media (min-aspect-ratio: 16/9){
 	#videoBG{
@@ -185,14 +183,4 @@ align-self: center;
 		background: url('vid/Pic.png');
 		background-size: cover;
 	}
-h1{
-width: 50px;
-hight: 50px;
-}
-
-.body2{
-width: 100%;
-hight: 200vh;
-justify-content: center;
-
 }
